@@ -1,2 +1,5 @@
-# Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+#WHOAMI
+
+Hello, my name is Sigqibo Tshapha and this is my repository where I will be going through the Free Code Camp Back End Development and APIs Course.
+
+Feel free to judge and comment on my code or just give any tips on things you think would help me become a better developer.
